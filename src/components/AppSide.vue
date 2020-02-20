@@ -21,15 +21,15 @@
 	      </el-menu-item>
 	      <el-menu-item index="/supplier/">
 	        <i class="el-icon-s-cooperation"></i>
-	        <span slot="title">供应商管理</span>
+	        <span slot="title">我的记录</span>
 	      </el-menu-item>
 	      <el-menu-item index="/goods/">
 	        <i class="el-icon-s-goods"></i>
-	        <span slot="title">商品管理</span>
+	        <span slot="title">待定</span>
 	      </el-menu-item>
 	      <el-menu-item index="/staff/">
 	        <i class="el-icon-user"></i>
-	        <span slot="title">员工管理</span>
+	        <span slot="title">待定</span>
 	      </el-menu-item>
 	    </el-menu>
 	

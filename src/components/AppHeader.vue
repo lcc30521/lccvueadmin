@@ -2,7 +2,7 @@
 	<div class="header">
 	        <a href="#/">
 	            <img class="logo" src="@/assets/logo.png" width="25px">
-	            <span class="company">梦学谷会员管理系统</span>
+	            <span class="company">管理系统</span>
 	        </a>
 	        
 	        <el-dropdown @command="handleCommand">

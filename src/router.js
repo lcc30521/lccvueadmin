@@ -54,7 +54,7 @@ export default new Router({
 	        {
 	          path: '/', 
 	          component: Supplier,
-	          meta: {title: '供应商管理'}
+	          meta: {title: '我的记录'}
 	        }
 	      ]
 	    },
